@@ -17,4 +17,4 @@ urllib3            1.26.9
 
 - ## Pillow
 - ## requests
-- ## beautifulsoup4
+- ## [beautifulsoup4](http://kondou.com/BS4/)
