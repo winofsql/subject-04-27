@@ -4,7 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/165655829-e5eb24bf-fbf1-4580-9109-b5c73a788bb2.png)
 
-
+- ## pip install Pillow
+- ## pip install requests
+- ## pip install beautifulsoup4
 
 ```
 Package            Version
